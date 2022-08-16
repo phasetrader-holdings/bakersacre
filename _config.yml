@@ -1,12 +1,11 @@
 # Site
-name: "Mediumish"
-title: "Mediumish"
-# email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
+name: "Baker's Acre"
+title: "Baker's Acre"
+email: baker@thereverend.org
+description: >-
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-# description: "Jekyll template, Medium styled, free for bloggers."
 
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -18,38 +17,39 @@ disqus: 'demowebsite'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
-github_username:  jekyll
+github_username: the-reverend
 
-# Build settings
-# theme: minima
-
-# Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John
-    avatar: 'assets/images/avatar.png'
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
-  nerd:
-    name: Nerd
-    display_name: Nerd
+  rev:
+    name: Rev
+    display_name: Rev
+    email: rev@thereverend.org
+    web: https://www.thereverend.org
+    twitter: https://twitter.com/th3reverend
     gravatar: e98628a49d97764f31893ad8b6bca6a7
-    email: nerd@bakersacre.com
-    description: "likes to post on technology and life hacks."
+    description: 'likes to pontificate on matters of life and death.'
+  jon:
+    name: Jon
+    display_name: Jon
+    avatar: 'assets/images/avatar.png'
+    description: 'Lorem ipsum dolor.'
+  baker:
+    name: Baker
+    display_name: Baker
+    email: baker@thereverend.org
+    description: 'likes to cook yummy stuff.'
+  maker:
+    name: Maker
+    display_name: Maker
+    gravatar: e98628a49d97764f31893ad8b6bca6a7
+    email: maker@thereverend.org
+    description: 'likes to build stuff by hand or with tools.'
+  saver:
+    name: Saver
+    display_name: Saver
+    email: saver@thereverend.org
+    description: 'likes to find frugality around every corner.'
 
-# Plugins
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
@@ -57,7 +57,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-archives
 
-# Archives
 jekyll-archives:
   enabled:
     - categories
@@ -69,9 +68,7 @@ jekyll-archives:
 paginate: 6
 paginate_path: /page:num/
 
-# Other
 markdown: kramdown
-
 kramdown:
   input: GFM
   syntax_highlighter: rouge
