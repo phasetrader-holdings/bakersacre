@@ -1,9 +1,18 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
+descripton: "This is the default Jekyll post with attributes from Mediumish."
 date:   2022-08-15 21:02:56 -0500
-categories: jekyll update
+author: nerd
+tags: [red, blue]
+#image: assets/images/fikry-anshor-X2bDNWh7gMU-unsplash750.jpg
+image: "https://images.unsplash.com/photo-1619793292381-25d2f7315532?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=750&q=80"
+categories: [jekyll, Update]
+featured: false
+hidden: false
+rating: 4.25
 ---
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
