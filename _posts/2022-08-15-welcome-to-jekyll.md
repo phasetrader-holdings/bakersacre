@@ -6,11 +6,11 @@ date: 2022-08-15 21:02:56 -0500
 author: maker
 #image: assets/images/fikry-anshor-X2bDNWh7gMU-unsplash750.jpg
 image: 'https://images.unsplash.com/photo-1619793292381-25d2f7315532?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=750&q=80'
-categories: [jekyll, tech]
+categories: [tech]
 #tags: [red, blue]
 featured: true
-hidden: false
-rating: 4.25
+hidden: true
+#rating: 4.25
 
 ---
 

@@ -35,6 +35,7 @@ authors:
     name: Baker
     display_name: Baker
     email: baker@thereverend.org
+    gravatar: 96afea1d6e4e4237ba3ecf31723629f2
     description: 'likes to cook yummy stuff.'
   maker:
     name: Maker
@@ -46,6 +47,7 @@ authors:
     name: Saver
     display_name: Saver
     email: saver@thereverend.org
+    gravatar: abc7d1dab9f019b5952281924dd0649a
     description: 'likes to find frugality around every corner.'
 
 plugins:
