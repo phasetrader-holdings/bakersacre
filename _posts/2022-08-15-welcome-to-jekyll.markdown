@@ -8,7 +8,7 @@ author: maker
 image: 'https://images.unsplash.com/photo-1619793292381-25d2f7315532?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=750&q=80'
 categories: [jekyll, tech]
 #tags: [red, blue]
-featured: false
+featured: true
 hidden: false
 rating: 4.25
 

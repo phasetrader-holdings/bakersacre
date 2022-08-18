@@ -3,9 +3,7 @@ name: "Baker's Acre"
 title: "Baker's Acre"
 email: baker@thereverend.org
 description: >-
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Making it work one day at time. Writing about recipes, products, and life lessons.
 
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
