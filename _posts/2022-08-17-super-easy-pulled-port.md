@@ -14,45 +14,49 @@ hidden: false
 
 ---
 
-Personally, I love a good pulled pork sandwich, and I'm willing to pay for it, especially at Bubba's BBQ, just over the Missouri border.
+I love a good pulled pork sandwich, and I'm willing to pay for it, especially at Bubba's BBQ, just over the Missouri border.
 
-For the longest time, I thought that this delicacy was a high art beyond my culinary capability. And yes, it probably is on the high end, but it turns out that you can get pretty close to high end with just a slow cooker and dang near anything in your fridge and pantry.
+For the longest time, I thought that this delicacy was high art beyond my culinary capability. And yes, it probably is on the high end, but it turns out that you can get pretty close to high end with just a slow cooker and dang near anything in your fridge and pantry.
 
 There are four key ingredients to a tasty pulled pork sandwich.
 
-1. Pork Shoulder; you might find this as Pork Butt in your grocery store; same thing.
-2. Some kind of acidic ingredient, like vinegar or citrus juices, or even a can of soda. (We tried Dr. Pepper once.)
-3. Some kind of sweet and savory (and spicy?) something. You can use off-the-shelf BBQ sauce, honey mustard, ketchup and brown sugar, mango puree; you do you. Use up all those KC Masterpiece and Chick Fil'a dippin' sauces you got piled up in the side drawer. It'll be good, trust me.
+1. Pork Shoulder; your grocery may call this Pork Butt; same thing.
+2. Some kind of acidic ingredient, like vinegar or citrus juices, or even a can of soda. (We tried Dr. Pepper; delicious.)
+3. Some kind of sweet and savory (and spicy?) something. You can use off-the-shelf BBQ sauce, honey mustard, ketchup and brown sugar, mango puree; you do you. Use up all those fast food dippin' sauces you got piled up in the side drawer. It'll be good, trust me.
 4. Bread and toppings. I have a weakness for Kaiser rolls, but you can go full on Ciabatta with Herbs&trade; or day old bargain buns; don't matter. Seek out some toppings to make the creation uniquely yours: cheese, more BBQ sauce, fried onions, spicy pickles; whatever.
 
-## Recipe Card
+## My Recipe
 
-* 3 lb    - Pork Shoulder (aka Pork Butt)
-* 1/2 cup - Apple Cider Vinegar
-* 16 oz   - Sweet Baby Ray's BBQ Sauce
-* 4       - Kaiser Rolls
-* 4       - Famous Dave's Spicy Pickles
-
-Prepare the meat: there will be a good deal of fat on any pork shoulder you buy. Cut off most of the large sections of fat. You don't have to remove it all; you want some to add flavor; leave more if you want a fattier end product.
+Prepare the meat: there will be a good deal of fat on any pork shoulder. Cut off the large sections of fat and discard them. You don't have to remove every trace; you want some fat to provide flavor; leave more if you want a fattier end product.
 
 > Optional : Pork Rub
 > 
->* Brown Sugar
->* Paprika
->* Mustard
+>* 2 tbsp  - Brown Sugar
+>* 1 tbsp  - Paprika
+>* 2 tsp   - Kosher Salt
 > 
-> Rub the pork shoulder with mustard, then mix the brown sugar and paprika together and sprinkle it all over the meat, rubbing it in. as you go until it's all coated. Cover in saran wrap and let it sit overnight in the fridge.
+> Combine the rub ingredients and massage them into the pork shoulder for full coverage. I like to wrap it in plastic and let it sit overnight in the fridge, but you don't have to.
 
-Mix the vinegar and bbq sauce in a bowl until it's a sauce. Pour about half of it into your crock pot or slow cooker just cover the bottom; then add your pork shoulder; then pour in the rest of the sauce.
+* 3-4 lbs - pork shoulder (aka pork butt)
+* 1/4 cup - apple cider vinegar
+* 1/4 cup - Worcestershire sauce
+* 1/2 cup - lime juice
+* 1       - serrano pepper, thinly sliced rings
+* 1       - whole white onion, finely chopped
+* 16 oz   - Sweet Baby Ray's BBQ sauce
 
-Cook covered on low for 6-8 hours. Resist the temptation to open the lid throughout the day; keep those aromas inside.
+Mix the ingredients directly in your slow cooker / crock pot until it's a sauce. Add your pork shoulder and use a spoon to splash the sauce all over the meat.
 
-Now, you have two choices. You can shred the pork in all those juices, or you can pull it out and shred it on a plate. It all depends on how messy you want it to be. I like it messy.
+Cook covered on high for 5-6 hours or on low for 8-10 hours. I prefer the low setting, but time does not always allow. Resist the urge to open the lid throughout the day; keep those aromas inside. The pork should be falling apart with the touch of a fork.
 
-Serve on rolls with pickles.
+At this point, you have two choices: 1) you can shred the pork with a fork in all those juices; or 2) you can pull it out and shred it on a plate. It all depends on how messy you want it to be. I like it messy.
 
-<!--
-| How Much? | Good Stuff |
-|---|---|
-| 3 lb | Pork Shoulder (aka Pork Butt) |
--->
+Serve on Kaiser rolls with Famous Dave's Spicy Pickles.
+
+One final note: you can refridgerate this and warm some up for lunches for a week. I do this for work lunches all the time. It beats peanut butter and jelly; and *I like peanut butter and jelly!*
+
+Other recipes I like:
+
+* [Pulled Pork with Mango BBQ Sauce](https://www.foodnetwork.com/recipes/winner-aarti-sequeira1/pulled-pork-with-mango-bbq-sauce-recipe-1921724) (You can make this with a slow cooker, even though the recipe calls for a large sauce pan.)
+* [Lauren's Slow-Cooker Pulled Pork](https://www.delish.com/cooking/recipe-ideas/recipes/a51267/slow-cooker-pulled-pork-recipe/)
+* [Betty Crocker's Slow-Cooker Pulled Pork](https://www.bettycrocker.com/recipes/slow-cooker-pulled-pork/52e0705a-a856-4aa5-a9ae-37b9e0c9fc52)
