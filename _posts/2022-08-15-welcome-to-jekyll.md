@@ -10,6 +10,7 @@ categories: [tech]
 #tags: [red, blue]
 featured: true
 hidden: true
+comments: false
 #rating: 4.25
 
 ---
