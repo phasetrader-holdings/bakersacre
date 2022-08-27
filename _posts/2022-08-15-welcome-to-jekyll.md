@@ -93,81 +93,6 @@ Perhaps the best part of Markdown is that you're never limited to just Markdown.
 
 <p><iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></p>
 
-<!--
-### Code Snippets
-
-Jekyll also offers powerful support for code snippets:
-
-There are two types of code elements which can be inserted in Markdown, the first is inline, and the other is block. Inline code is formatted by wrapping any word or words in back-ticks, `like this`. Larger snippets of code can be displayed across multiple lines using triple back ticks:
-
-<pre>
-```
-triple backticks like these
-```
-</pre>
-
-```
-triple backticks like these
-```
-
-#### HTML
-
-```html
-<li class="ml-1 mr-1">
-    <a target="_blank" href="#">
-    <i class="fab fa-twitter"></i>
-    </a>
-</li>
-```
-
-#### CSS
-
-```css
-.highlight .c {
-    color: #999988;
-    font-style: italic; 
-}
-.highlight .err {
-    color: #a61717;
-    background-color: #e3d2d2; 
-}
-```
-
-#### JS
-
-```js
-// alertbar later
-$(document).scroll(function () {
-    var y = $(this).scrollTop();
-    if (y > 280) {
-        $('.alertbar').fadeIn();
-    } else {
-        $('.alertbar').fadeOut();
-    }
-});
-```
-
-#### Python
-
-```python
-print("Hello World")
-```
-
-#### Ruby
-
-```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
-```
-
-#### C
-
-```c
-printf("Hello World");
-```
--->
-
 ## Spoiler Warnings
 
 You might not want your readers to know something that might spoil their experience later. <span class="spoiler">For this, you can use a css class to hide the details.</span>
@@ -175,6 +100,16 @@ You might not want your readers to know something that might spoil their experie
 ```html
 <span class="spoiler">My hidden sentence or paragraph here.</span>
 ```
+
+## WSL Lessons Learned
+
+When running locally on Windows Subsytem for Linux, I found that the ruby runtime would often hang unrecoverably with inactivity. To solve this I use the following additional arguments.
+
+```
+bundle exec jekyll serve --force-polling --livereload
+```
+
+Another annoyance I have encountered is that sometimes the terminal application will crash, leaving your sessions active and there is no way to get back to my sessions. I have been able to kill the orphaned Ruby or other processes, but this not convenient. I have started to use Tmux as much as possible, which allows me to reattach to sessions after such crashes.
 
 ## Reference Lists
 
