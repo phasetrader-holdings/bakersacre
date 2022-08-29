@@ -17,7 +17,7 @@ Baker's Acre is a collaboration of various writers from our friends and extended
 1. Where does the name *"Baker's Acre"* come from?
 
 	> It's a reference to <u>generosity</u>; a turn on the common phrase, *a baker's dozen*, where you are given 13 instead of 12 for the price of a dozen.  
-	> By definition, [one acre is 66 by 660 feet][1]. Finding the number 6 to be falling short of 7, which is the number of perfection, a baker's acre is 77 by 770 feet, or 36% larger than a standard acre.
+	> By definition, [one acre is 66 by 660 feet][1]{:target="_blank"}. Finding the number 6 to be falling short of 7, which is the number of perfection, a baker's acre is 77 by 770 feet, or 36% larger than a standard acre.
 
 1. Who are the authors of *Baker's Acre*?
 
