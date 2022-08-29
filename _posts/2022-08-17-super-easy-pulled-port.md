@@ -11,7 +11,6 @@ categories: [food]
 featured: true
 hidden: false
 #rating: 4.25
-
 ---
 
 I love a good pulled pork sandwich, and I'm willing to pay for it, especially at Bubba's BBQ, just over the Missouri border.
@@ -27,27 +26,37 @@ There are four key ingredients to a tasty pulled pork sandwich.
 
 ## My Recipe
 
-Prepare the meat: there will be a good deal of fat on any pork shoulder. Cut off the large sections of fat and discard them. You don't have to remove every trace; you want some fat to provide flavor; leave more if you want a fattier end product.
+This is how we typically prepare our pulled pork here at Baker's Acre.
 
-> Optional : Pork Rub
-> 
->* 2 tbsp  - Brown Sugar
->* 1 tbsp  - Paprika
->* 2 tsp   - Kosher Salt
-> 
-> Combine the rub ingredients and massage them into the pork shoulder for full coverage. I like to wrap it in plastic and let it sit overnight in the fridge, but you don't have to.
+### Prepare the Meat
 
 * 3-4 lbs - pork shoulder (aka pork butt)
+
+There will be a good deal of fat on any pork shoulder. Cut off the large sections of fat and discard them. You don't have to remove every trace; you want some fat to provide flavor; leave more if you want a fattier end product.
+
+### Optional : Pork Rub
+ 
+* 2 tbsp  - Brown Sugar
+* 1 tbsp  - Paprika
+* 2 tsp   - Kosher Salt
+ 
+Combine the rub ingredients and massage them into the pork shoulder for full coverage. I like to wrap it in plastic and let it sit overnight in the fridge, but you don't have to.
+
+### Create the Sauce
+
 * 1/4 cup - apple cider vinegar
 * 1/4 cup - Worcestershire sauce
 * 1/2 cup - lime juice
+* 1 tbsp  - vegetable or olive oil
 * 1       - serrano pepper, thinly sliced rings
 * 1       - whole white onion, finely chopped
 * 16 oz   - Sweet Baby Ray's BBQ sauce
 
-Mix the ingredients directly in your slow cooker / crock pot until it's a sauce. Add your pork shoulder and use a spoon to splash the sauce all over the meat.
+In a small pan, warm the oil over medium heat and saute the onion and pepper until soft, but do not brown them. Add the rest of the ingredients (except the meat); stir and simmer for about 5 minutes. Transfer this sauce to your slow cooker or crock pot. Add the pork shoulder and use a spoon to splash the sauce all over the meat.
 
-Cook covered on high for 5-6 hours or on low for 8-10 hours. I prefer the low setting, but time does not always allow. Resist the urge to open the lid throughout the day; keep those aromas inside. The pork should be falling apart with the touch of a fork.
+### Slow Cooker
+
+Cook covered on high for 5-6 hours or low for 8-10 hours. I prefer the low setting, but time does not always allow. Resist the urge to open the lid throughout the day; keep those aromas and liquids inside. The pork should be falling apart with the touch of a fork.
 
 At this point, you have two choices: 1) you can shred the pork with a fork in all those juices; or 2) you can pull it out and shred it on a plate. It all depends on how messy you want it to be. I like it messy.
 

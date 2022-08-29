@@ -1,36 +1,30 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: About Us
 permalink: /about
 comments: false
 ---
 
-<div class="row justify-content-between">
+Baker's Acre is a collaboration of various writers from our friends and extended family. For now, we're keeping it pseudonymous. What are we about? Well, a lot of stuff.
 
-<div class="col-md-8 pr-5">
+1. We care about people and want those around us to live happy and prosperous lives with meaning. This leads to practical tips for living and occasional thoughts on wisdom.
+1. We love food and you can expect to see simple recipes for what's on our table.
+1. We need to make a few dollars, so please click our affiliate links and ads if they appeal to you; ignore them if not!
+1. We are thankful for our country, soldiers, veterans, and leaders. We usually lean right politically, but welcome all points of view even if we disagree.
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
+#### Frequently Asked Questions
 
-<h4>Documentation</h4>
+1. Where does the name *"Baker's Acre"* come from?
 
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
+	> It's a reference to <u>generosity</u>; a turn on the common phrase, *a baker's dozen*, where you are given 13 instead of 12 for the price of a dozen.  
+	> By definition, [one acre is 66 by 660 feet][1]. Finding the number 6 to be falling short of 7, which is the number of perfection, a baker's acre is 77 by 770 feet, or 36% larger than a standard acre.
 
-<h4>Questions or bug reports?</h4>
+1. Who are the authors of *Baker's Acre*?
 
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
+	> We live in the USA from the northeast to flyover country. <u>For now, we're keeping it pseudonymous.</u>
+	> * Baker : food reporter
+	> * Maker : tech and woodworking reporter; also the tech support for the website
+	> * Saver : frugality and finance reporter
+	> * Rev : culture and philosophy reporter
 
-</div>
-
-<div class="col-md-4">
-
-<div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
-
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
-
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
-
-</div>
-</div>
-</div>
+[1]: https://en.wikipedia.org/wiki/Acre
