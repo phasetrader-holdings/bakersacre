@@ -12,6 +12,10 @@ Baker's Acre is a collaboration of various writers from our friends and extended
 1. We need to make a few dollars, so please click our affiliate links and ads if they appeal to you; ignore them if not!
 1. We are thankful for our country, soldiers, veterans, and leaders. We usually lean right politically, but welcome all points of view even if we disagree.
 
+#### Contact Us
+
+Our apologies! Right now we don't have a way for you to contact us directly. We expect this to change once *Maker* gets around to adding a form to this static site. Please be patient!
+
 #### Frequently Asked Questions
 
 1. Where does the name *"Baker's Acre"* come from?
