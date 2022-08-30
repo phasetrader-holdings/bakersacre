@@ -66,6 +66,6 @@ One final note: you can refridgerate this and warm some up for lunches for a wee
 
 Other recipes I like:
 
-* [Pulled Pork with Mango BBQ Sauce](https://www.foodnetwork.com/recipes/winner-aarti-sequeira1/pulled-pork-with-mango-bbq-sauce-recipe-1921724) (You can make this with a slow cooker, even though the recipe calls for a large sauce pan.)
-* [Lauren's Slow-Cooker Pulled Pork](https://www.delish.com/cooking/recipe-ideas/recipes/a51267/slow-cooker-pulled-pork-recipe/)
-* [Betty Crocker's Slow-Cooker Pulled Pork](https://www.bettycrocker.com/recipes/slow-cooker-pulled-pork/52e0705a-a856-4aa5-a9ae-37b9e0c9fc52)
+* [Pulled Pork with Mango BBQ Sauce](https://www.foodnetwork.com/recipes/winner-aarti-sequeira1/pulled-pork-with-mango-bbq-sauce-recipe-1921724){:target="\_blank"}. (You can make this with a slow cooker, even though the recipe calls for a large sauce pan.)
+* [Lauren's Slow-Cooker Pulled Pork](https://www.delish.com/cooking/recipe-ideas/recipes/a51267/slow-cooker-pulled-pork-recipe/){:target="\_blank"}.
+* [Betty Crocker's Slow-Cooker Pulled Pork](https://www.bettycrocker.com/recipes/slow-cooker-pulled-pork/52e0705a-a856-4aa5-a9ae-37b9e0c9fc52){:target="\_blank"}.

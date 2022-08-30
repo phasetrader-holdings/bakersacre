@@ -35,7 +35,7 @@ When you run `bundle exec jekyll serve`, `Bundler` uses the gems and versions as
 
 ## Blog Posts
 
-Blog posts are stored in the `_posts` folder inside your [Jekyll](https://jekyllrb.com) project. The project layout should look something like this:
+Blog posts are stored in the `_posts` folder inside your [Jekyll](https://jekyllrb.com){:target="\_blank"} project. The project layout should look something like this:
 
 ```txt
 ├── assets      # images and other fixed assets go here
@@ -125,9 +125,9 @@ Another way to insert links in markdown is using reference lists. You might want
 [3]: http://r-pkgs.had.co.nz/tests.html
 ```
 
-- [RStudio Devtools][1]
-- [testthat][2]
-- [More unit test examples][3]
+- [RStudio Devtools][1]{:target="\_blank"}
+- [testthat][2]{:target="\_blank"}
+- [More unit test examples][3]{:target="\_blank"}
 
 [1]: https://stackoverflow.com/users/214446/mb21
 [2]: https://github.com/hadley/testthat
@@ -135,7 +135,7 @@ Another way to insert links in markdown is using reference lists. You might want
 
 ## More Helpful Documents
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Check out the [Jekyll docs][jekyll-docs]{:target="\_blank"} for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]{:target="\_blank"}. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk]{:target="\_blank"}.
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
