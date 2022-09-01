@@ -20,7 +20,13 @@ If you find any comments which violate our guidelines or the spirit therein, ple
 
 #### Monetization
 
-We use affiliate links and ads to keep the lights on. *Baker's Acre* is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com and affiliated sites.
+We use affiliate links and ads to keep the lights on.
+
+*Baker's Acre* is a participant in the Walmart Affiliate Network, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Walmart.com and affiliated sites.
+
+*Baker's Acre* is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com and affiliated sites.
+
+*Baker's Acre* displays ads from Google Adsense.
 
 #### Disclaimers and Disclosures
 
