@@ -62,7 +62,7 @@ Cook covered on high for 5-6 hours or low for 8-10 hours. I prefer the low setti
 
 ![pork shoulder](/assets/images/pulledpork3.jpg)
 
-At this point, you have two choices: 1) you can shred the pork with a fork in all those juices; or 2) you can pull it out and shred it on a plate. It all depends on how messy you want it to be. I like it messy.
+At this point, you have two choices: 1) you can shred the pork with a fork in all those juices; or 2) you can pull it out and shred it on a plate. It all depends on how messy you want it to be. I like to keep the sauce separate and spoon it onto the pork to taste.
 
 ![pork shoulder](/assets/images/pulledpork4.jpg)
 
