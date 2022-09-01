@@ -15,7 +15,7 @@ hidden: false
 
 I love a good pulled pork sandwich, and I'm willing to pay for it, especially at Bubba's BBQ, just over the Missouri border.
 
-For the longest time, I thought that this delicacy was high art beyond my culinary capability. And yes, it probably is on the high end, but it turns out that you can get pretty close to high end with just a [slow cooker](https://www.walmart.com/ip/Brentwood-Select-SC-157S-7-Qt-Slow-Cooker-Silver/728762260) and dang near anything in your fridge and pantry.
+For the longest time, I thought that this delicacy was high art beyond my culinary capability. And yes, it probably is on the high end, but it turns out that you can get pretty close to high end with just a [slow cooker][slow-cooker]{:target="\_blank"} and dang near anything in your fridge and pantry.
 
 There are four key ingredients to a tasty pulled pork sandwich.
 
@@ -34,7 +34,7 @@ This is how we typically prepare our pulled pork here at Baker's Acre.
 
 There will be a good deal of fat on any pork shoulder. Cut off the large sections of fat and discard them. You don't have to remove every trace; you want some fat to provide flavor; leave more if you want a fattier end product.
 
-![pork shoulder](/assets/images/pulledpork2.jpg)
+![raw pork shoulder](/assets/images/pulledpork2.jpg)
 
 ### Optional : Pork Rub
  
@@ -47,12 +47,12 @@ Combine the rub ingredients and massage them into the pork shoulder for full cov
 ### Create the Sauce
 
 * 1/4 cup - apple cider vinegar
-* 1/4 cup - [Worcestershire sauce](https://www.walmart.com/ip/Great-Value-Worcestershire-Sauce-10-fl-Ounce/12157940)
+* 1/4 cup - [Worcestershire sauce][worcestershire-sauce]{:target="\_blank"}
 * 1/2 cup - lime juice
 * 1 tbsp  - vegetable or olive oil
 * 1       - serrano pepper, thinly sliced rings
 * 1       - whole white onion, finely chopped
-* 16 oz   - [Sweet Baby Ray's BBQ sauce](https://www.walmart.com/ip/Sweet-Baby-Ray-s-Original-Barbecue-Sauce-18-oz/10294615)
+* 16 oz   - [Sweet Baby Ray's BBQ sauce][bbq-sauce]{:target="\_blank"}
 
 In a small pan, warm the oil over medium heat and saute the onion and pepper until soft, but do not brown them. Add the rest of the ingredients (except the meat); stir and simmer for about 5 minutes. Transfer this sauce to your slow cooker or crock pot. Add the pork shoulder and use a spoon to splash the sauce all over the meat.
 
@@ -60,18 +60,26 @@ In a small pan, warm the oil over medium heat and saute the onion and pepper unt
 
 Cook covered on high for 5-6 hours or low for 8-10 hours. I prefer the low setting, but time does not always allow. Resist the urge to open the lid throughout the day; keep those aromas and liquids inside. The pork should be falling apart with the touch of a fork.
 
-![pork shoulder](/assets/images/pulledpork3.jpg)
+![pork shoulder in crock pot](/assets/images/pulledpork3.jpg)
 
 At this point, you have two choices: 1) you can shred the pork with a fork in all those juices; or 2) you can pull it out and shred it on a plate. It all depends on how messy you want it to be. I like to keep the sauce separate and spoon it onto the pork to taste.
 
-![pork shoulder](/assets/images/pulledpork4.jpg)
+![pulled pork](/assets/images/pulledpork4.jpg)
 
-Serve on Kaiser rolls with [Famous Dave's Devil's Spit Pickle Chips](https://www.walmart.com/ip/Famous-Dave-s-Devil-s-Spit-Pickle-Chips-24-fl-oz/39080937).
+Serve on Kaiser rolls with [Famous Dave's Devil's Spit Pickle Chips][pickles]{:target="\_blank"}.
 
 One final note: you can refridgerate this and warm some up for lunches for a week. I do this for work lunches all the time. It beats peanut butter and jelly; and *I like peanut butter and jelly!*
 
 Other recipes I like:
 
-* [Pulled Pork with Mango BBQ Sauce](https://www.foodnetwork.com/recipes/winner-aarti-sequeira1/pulled-pork-with-mango-bbq-sauce-recipe-1921724){:target="\_blank"}. (You can make this with a slow cooker, even though the recipe calls for a large sauce pan.)
-* [Lauren's Slow-Cooker Pulled Pork](https://www.delish.com/cooking/recipe-ideas/recipes/a51267/slow-cooker-pulled-pork-recipe/){:target="\_blank"}.
-* [Betty Crocker's Slow-Cooker Pulled Pork](https://www.bettycrocker.com/recipes/slow-cooker-pulled-pork/52e0705a-a856-4aa5-a9ae-37b9e0c9fc52){:target="\_blank"}.
+* [Pulled Pork with Mango BBQ Sauce][1]{:target="\_blank"}. (You can make this with a slow cooker, even though the recipe calls for a large sauce pan.)
+* [Lauren's Slow-Cooker Pulled Pork][2]{:target="\_blank"}.
+* [Betty Crocker's Slow-Cooker Pulled Pork][3]{:target="\_blank"}.
+
+[slow-cooker]: https://goto.walmart.com/c/3622609/1285217/9383?prodsku=728762260&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FBrentwood-Select-SC-157S-7-Qt-Slow-Cooker-Silver%2F728762260&intsrc=PUI2_9749
+[worcestershire-sauce]: https://www.walmart.com/ip/Great-Value-Worcestershire-Sauce-10-fl-Ounce/12157940
+[bbq-sauce]: https://www.walmart.com/ip/Sweet-Baby-Ray-s-Original-Barbecue-Sauce-18-oz/10294615
+[pickles]: https://www.walmart.com/ip/Famous-Dave-s-Devil-s-Spit-Pickle-Chips-24-fl-oz/39080937
+[1]: https://www.foodnetwork.com/recipes/winner-aarti-sequeira1/pulled-pork-with-mango-bbq-sauce-recipe-1921724
+[2]: https://www.delish.com/cooking/recipe-ideas/recipes/a51267/slow-cooker-pulled-pork-recipe
+[3]: https://www.bettycrocker.com/recipes/slow-cooker-pulled-pork/52e0705a-a856-4aa5-a9ae-37b9e0c9fc52
