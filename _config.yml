@@ -83,7 +83,7 @@ prose:
         field:
           element: 'text'
           label: 'date'
-          placeholder: 'YYYY-MM-DD HH:MM'
+          placeholder: 'YYYY-MM-DD HH:MM:SS -TZtz'
           value: 'CURRENT_DATETIME'
       - name: 'author'
         field:
