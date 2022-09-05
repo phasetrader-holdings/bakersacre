@@ -52,7 +52,11 @@ While we still adore the Nest, we started looking for alternatives after Google 
 
 Currently, we are using the [Ecobee 3 Lite][1]. You might be able to get a rebate from your energy company to reduce your cost on this little gem. It doesn't have enough sensors to know if you're home but it supports room sensors; it charges itself from your HVAC's wires, so no batteries; and it has all the scheduling goodies you would expect from any self-respecting smart thermostat.
 
+![ecobee data](/assets/images/thermostat2.png)
+
 What I really like, though, is the monthly reports from Ecobee about how we're doing on energy saving. And the nerd inside loves that I can download raw data to play with. Because of this, I was able to figure out why our HVAC unit was cycling so frequently and analyze the effect of a fireplace on our cold nights.
+
+![ecobee data](/assets/images/thermostat1.png)
 
 ## How do we Save Money?
 
