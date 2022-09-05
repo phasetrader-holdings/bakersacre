@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Super Easy Pulled Pork'
-descripton: "Anyone with a Crock Pot can make this delicious dish - a fan favorite at Baker's Acre!"
+description: "Anyone with a Crock Pot can make this delicious dish - a fan favorite at Baker's Acre!"
 date: 2022-08-17
 author: baker
 image: assets/images/pulledpork1.jpg

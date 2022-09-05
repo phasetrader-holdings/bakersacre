@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Smart Thermostat
-descripton: Save on energy with a smart thermostat.
+description: Save on energy with a smart thermostat.
 date: 2022-09-05
 author: maker
 image: >-

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jekyll Tips and Tricks'
-descripton: 'This blog is built with Jekyll; here are some insights into how the content is built.'
+description: 'This blog is built with Jekyll; here are some insights into how the content is built.'
 date: 2022-08-15 21:02:56 -0500
 author: maker
 #image: assets/images/fikry-anshor-X2bDNWh7gMU-unsplash750.jpg
