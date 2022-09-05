@@ -87,6 +87,7 @@ prose:
       - name: 'author'
         field:
           element: 'select'
+          label: 'author'
           options:
             - name: baker
               value: baker
@@ -105,6 +106,7 @@ prose:
       - name: 'categories'
         field:
           element: 'multiselect'
+          label: 'categories'
           options:
             - name: budget
               value: budget
@@ -117,17 +119,17 @@ prose:
       - name: 'featured'
         field:
           element: 'checkbox'
-          label: 'featured post?'
+          label: 'featured?'
           value: false
       - name: 'hidden'
         field:
           element: 'checkbox'
-          label: 'hidden post?'
+          label: 'hidden?'
           value: false
       - name: 'comments'
         field:
           element: 'checkbox'
-          label: 'allow comments?'
+          label: 'comments?'
           value: true
 
 plugins:
