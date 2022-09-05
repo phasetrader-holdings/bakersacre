@@ -7,10 +7,11 @@ author: maker
 image: >-
   https://images.unsplash.com/photo-1636569608385-58efc32690ea?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=750&q=80
 categories:
-  - home
   - budget
+  - home
 featured: true
 hidden: false
+comments: true
 ---
 
 Here at Baker's Acre, we jumped on the smart internet-connected thermostat bandwagon with the first [Nest][1]{:target="\_blank"} thermostat in 2011. It was fantastic!
