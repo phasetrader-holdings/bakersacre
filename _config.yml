@@ -70,25 +70,25 @@ prose:
       - name: "title"
         field:
           element: "text"
-          label: "post title"
+          label: "title"
           placeholder: "Lorem Ipsum Dolor"
           alterable: true
       - name: "description"
         field:
           element: "text"
-          label: "post description"
+          label: "description"
           placeholder: "Lorem Ipsum Dolor"
           alterable: true
       - name: "image"
         field:
           element: "text"
-          label: "image path"
+          label: "image"
           placeholder: "/assets/images/loremipsum.jpg"
           alterable: true
       - name: "date"
         field:
           element: "text"
-          label: "Date and Time (YYYY-MM-DD HH:MM:SS)"
+          label: "date"
           value: CURRENT_DATETIME
 
 plugins:
