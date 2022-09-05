@@ -83,7 +83,8 @@ prose:
         field:
           element: 'text'
           label: 'date'
-          value: CURRENT_DATETIME
+          placeholder: 'YYYY-MM-DD HH:MM'
+          value: 'CURRENT_DATETIME'
       - name: 'author'
         field:
           element: 'select'
