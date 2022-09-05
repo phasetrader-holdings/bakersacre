@@ -63,33 +63,72 @@ prose:
     - /_site
   metadata:
     _posts:
-      - name: "layout"
+      - name: 'layout'
         field:
-          element: "hidden"
-          value: "post"
-      - name: "title"
+          element: 'hidden'
+          value: 'post'
+      - name: 'title'
         field:
-          element: "text"
-          label: "title"
-          placeholder: "Lorem Ipsum Dolor"
+          element: 'text'
+          label: 'title'
+          placeholder: 'Lorem Ipsum Dolor'
           alterable: true
-      - name: "description"
+      - name: 'description'
         field:
-          element: "text"
-          label: "description"
-          placeholder: "Lorem Ipsum Dolor"
+          element: 'text'
+          label: 'description'
+          placeholder: 'Lorem Ipsum Dolor'
           alterable: true
-      - name: "image"
+      - name: 'date'
         field:
-          element: "text"
-          label: "image"
-          placeholder: "/assets/images/loremipsum.jpg"
-          alterable: true
-      - name: "date"
-        field:
-          element: "text"
-          label: "date"
+          element: 'text'
+          label: 'date'
           value: CURRENT_DATETIME
+      - name: 'author'
+        field:
+          element: 'select'
+          options:
+            - name: baker
+              value: baker
+            - name: maker
+              value: maker
+            - name: saver
+              value: saver
+            - name: rev
+              value: rev
+      - name: 'image'
+        field:
+          element: 'text'
+          label: 'image'
+          placeholder: '/assets/images/loremipsum.jpg'
+          alterable: true
+      - name: 'categories'
+        field:
+          element: 'multiselect'
+          options:
+            - name: budget
+              value: budget
+            - name: food
+              value: food
+            - name: home
+              value: home
+            - name: tech
+              value: tech
+      - name: 'featured'
+        field:
+          element: 'checkbox'
+          label: 'featured post?'
+          value: false
+      - name: 'hidden'
+        field:
+          element: 'checkbox'
+          label: 'hidden post?'
+          value: false
+      - name: 'comments'
+        field:
+          element: 'checkbox'
+          label: 'allow comments?'
+          value: true
 
 plugins:
   - jekyll-paginate
